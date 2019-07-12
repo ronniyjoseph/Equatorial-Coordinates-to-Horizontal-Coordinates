@@ -13,7 +13,7 @@ A quick refresher on how to convert astronomical coordinate systems
 
 #Now you have to solve the issue with the domain of the arctangent(Azimuth)
 
-#Use the 2 argument tanget: https://en.wikipedia.org/wiki/Atan2
+#Use the 2 argument tangent: https://en.wikipedia.org/wiki/Atan2
 
 ![Comparison Between numpy.arctan and numpy.arctan2 when converting Equatorial Coordinates to Horizontal Coordinates](https://github.com/ronniyjoseph/Equatorial-Coordinates-to-Horizontal-Coordinates/blob/master/comparing_arctan_arctan2.png)
 
