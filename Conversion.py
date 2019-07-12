@@ -28,7 +28,7 @@ elevation, azimuth, azimuth2 = from_celestial_to_horizontal(hour_angles/24*2*num
 print(elevation)
 print(numpy.deg2rad(azimuth))
 
-fig = pyplot.figure(figsize=(17,4))
+fig = pyplot.figure(figsize=(17,5))
 axes1= fig.add_subplot(131, polar = True)
 axes2= fig.add_subplot(132)
 axes3= fig.add_subplot(133)
